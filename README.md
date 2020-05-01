@@ -2,6 +2,10 @@
 
 Self-use script discord webhook bot
 
+## Current function
+
+- respond with a ? when get mentioned
+
 ## Ongoing function
 
 - Coursework deadline daily notification
