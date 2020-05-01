@@ -1,10 +1,10 @@
 # Discord-Ghost-Bot
 
-Self-use script discord webhook bot
+Self-use python discord bot
 
 ## Current function
 
-- respond with a ? when get mentioned
+- Coursework deadline management and lookup
 
 ## Ongoing function
 
@@ -14,3 +14,5 @@ Self-use script discord webhook bot
 
 - Download mission (steam, torrent) complete notification
 - Github commit etc. notification
+- Housemate votes
+- AA funding management
